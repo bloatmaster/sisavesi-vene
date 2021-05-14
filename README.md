@@ -1,2 +1,2 @@
 # sisavesi-vene
-Sisäveneilyyn liittyviä muistiinpano
+Sisäveneilyyn liittyviä muistiinpanoja
